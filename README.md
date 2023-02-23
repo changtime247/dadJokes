@@ -1,4 +1,4 @@
-## Dad Jokes
+## [Dad Jokes](https://hadadjokes.netlify.app/)
 
 For when you need a dad joke ASAP.
 
